@@ -1,0 +1,22 @@
+{
+	"version": 3,
+	"file": "../scss/main.css",
+	"sources": [
+		"../scss/main.scss",
+		"../scss/files/_layouts.scss",
+		"../scss/files/_components.scss",
+		"../scss/files/_buttons.scss",
+		"../scss/files/_nav.scss",
+		"../scss/files/_typography.scss"
+	],
+	"sourcesContent": [
+		"@import \"files/layouts\";\r\n@import \"files/components\";\r\n@import \"files/buttons\";\r\n@import \"files/nav\";\r\n@import \"files/typography\";",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"mappings": "",
+	"names": []
+}
